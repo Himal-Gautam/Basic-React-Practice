@@ -7,7 +7,7 @@ These files are from "src" folder of app.
 Deployed Link:- https://basic-reactjs-practice.netlify.app
 
 # React-Online-Shopping-Store
-React- Day -2 : React hooks & states
+Task of React- Day -2 : React hooks & states
 19/12/2021 - Sunday.
 These files are from "src" folder of app.
 Source Code Link :- https://github.com/Himal-Gautam/React-Online-Shopping-Store
